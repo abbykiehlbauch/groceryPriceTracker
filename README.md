@@ -1,14 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/enf2qyfT)
-# COSC360-Project
+# COSC360 Project - Grocery Store Price Tracker
 Final project for COSC 360 Term 2
-## Team Members
-- Abby Kiehlbauch
+
 ## Project Description
-I will be creating a grocery price tracker website that will allow users to find the lowest food prices at grocery stores in Kelowna. Users will be able to track the prices of items across grocery stores and view general price trends. Commenting, setting alerts, and reporting prices on items will be restricted to registered users.
+The grocery price tracker website will allow users to find the lowest food prices at grocery stores in Kelowna. Users will be able to track the prices of items across grocery stores and view general price trends. Commenting, and reporting prices on items will be restricted to registered users.
+
 ## Minimum Project Requirements
 ### All Users (unregistered and registered)
 - view general price trends
-- view prices of items across stores(including breakdown of price per 100 grams, lb, to be able to compare similar items)
+- view prices of items across stores
 - search functionality
 - view history of price changes 
 - suggested products (similar products)
