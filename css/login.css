@@ -1,0 +1,18 @@
+#loginForm{
+    float:left;
+    margin-left:25%;
+}
+#registerForm{
+    float:right;
+    margin-right:25%;
+
+}
+submit{
+    display:inline;
+}
+#otherButtons{
+    padding:2em;
+    clear:both;
+    width:fit-content;
+    margin:auto;
+}

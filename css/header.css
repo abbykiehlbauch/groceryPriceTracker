@@ -1,0 +1,52 @@
+header, h1, h2, h3, h4, p, ul, li, label, input, td{
+    font-family:'Century Gothic', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+header{
+    display:block;
+    background-image: url("./../images/banner-name.jpg");
+    background-size:contain;
+    padding:2em;
+    width:auto;
+    margin:auto;    
+}
+header h1{
+    background-color: hsl(0, 0%, 100%, 0.5);
+    width:max-content;
+    margin:auto;
+    height:1em;
+    line-height: 1em;
+    text-align: center;
+    border-radius:1em;
+    text-shadow:1px 1px 1px rgb(39, 25, 25);
+}
+nav{
+    background-color: hsl(0, 0%, 100%, 0.5);
+    width:max-content;
+    margin:auto;
+    height:2em;
+    line-height: 2em;
+    text-align: center;
+    padding:1em;
+    border-radius:1em;
+}
+nav p{
+    display:inline;
+    font-weight: bold;
+}
+#profile{
+    float:right;
+    height:5em;
+    width:auto;
+    position:absolute;
+    top:3em;
+    right:5em;
+}
+footer{
+    display:block;
+    width:auto;
+    margin:auto;
+    background-color:#d2a679;
+    padding: 0.5em;
+    text-align:center;
+    border-radius:0.5em;
+}
